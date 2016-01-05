@@ -2,11 +2,11 @@
 
 根据官网的配置文件进行了修改，使用起来更加稳健。
 
-*适用于shadowsocks*
+**适用于shadowsocks**
 
 需做修改：
 
- ''' Proxy = custom,serve,port,aes-256-cfb,password,http://surge.pm/ss.module '''
+ ' Proxy = custom,serve,port,aes-256-cfb,password,http://surge.pm/ss.module '
 
 - serve为服务器地址；
 
