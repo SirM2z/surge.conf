@@ -6,10 +6,12 @@
 
 需做修改：
 
- ' Proxy = custom,serve,port,aes-256-cfb,password,http://surge.pm/ss.module '
+ '''
+  Proxy = custom,serve,port,aes-256-cfb,password,http://surge.pm/ss.module
+ '''
 
-- serve为服务器地址；
+- serve为服务器地址
 
-- port为端口号；
+- port为端口号
 
-- password为密码。
+- password为密码
