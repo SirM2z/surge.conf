@@ -6,7 +6,7 @@
 
 需做修改：
 
-> Proxy = custom,serve,port,aes-256-cfb,password,http://abclite.cn/SSEncrypt.module
+> Proxy = custom,serve,port,aes-256-cfb,password,https://github.com/SirM2z/surge.conf/raw/master/ss.module
 
 - serve为服务器地址
 
